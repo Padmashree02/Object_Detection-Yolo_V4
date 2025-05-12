@@ -7,6 +7,7 @@ Object detection using deep neural network are categories in two methods-
   > Two stage detector :- Efficeint detectors good for its accuracy as these detectors detects the object first by gnerating region proposals and then on each proposed region object classification and bounding box are detected.
 
 In this object detection part, the objects are detected by one stage method and using YOLO based model- YOLO V4
+
 Solution :-
 
   > Network/Layer - yolov4
