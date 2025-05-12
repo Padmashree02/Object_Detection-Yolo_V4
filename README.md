@@ -50,6 +50,6 @@ Solution :-
 
 Important note :- 
 
-  > The inference time in the code has shown as 4671.26 ms but this is due to code had been executed under CPU runtime. 
+  > The inference time in the code has shown as 5289.31 ms but this is due to code had been executed under CPU runtime. 
 
   > Thus, I have share another image in which the inference time is shown as 1980.17 ms and this was due to the same code that had been executed under GPU runtime.
