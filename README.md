@@ -53,3 +53,5 @@ Important note :-
   > The inference time in the code has shown as 5289.31 ms but this is due to code had been executed under CPU runtime. 
 
   > Thus, I have share another image in which the inference time is shown as 1980.17 ms and this was due to the same code that had been executed under GPU runtime.
+
+  > As the trained weight file's size is beyond github's limit. So, could not be able to upload .pb file, however the .pb file can be access from the SSD's respective github link.
