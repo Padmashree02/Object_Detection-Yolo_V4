@@ -48,6 +48,10 @@ Solution :-
 
         - Else no, then will pass to the next detection.
 
+      : Perform Non Maximum Suppression on each detected box which is stored in the box list- result the list of indices of those detection which are valid.
+        Note- NMS aids to removes overlapped bounding boxes.
+        
+      : With respect to indices, draw the bounding box (by extracting the dimensions from box list respectively) with detected class name and cofidence score.
 
 Important note :- 
 
